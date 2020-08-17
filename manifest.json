@@ -1,0 +1,38 @@
+{
+  "name": "Hidupcu.com",
+  "short_name": "Hidupcu",
+  "start_url": "www.hidupcu.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog tentang informasi jurusan kuliah, pekerjaan dan hal menarik lainnya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-ng7XW4OLnTY/XL051A7It3I/AAAAAAAAB1s/8BP2C1L8Ies7ieb22ti6j76BNnL813SswCLcBGAs/s1600/hidup48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-vv4G2uz_0-c/XL05164XNjI/AAAAAAAAB10/bF5BohuczUobI4ttY7ynLMoYw3VUk2e9ACLcBGAs/s1600/hidup72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-teYB2FBT8-Q/XL052J7MlZI/AAAAAAAAB14/-oDU-OeX9dU5Ug2pZPXRM_kLxE1lVwerwCLcBGAs/s1600/hidup96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-PBN6KUAY58s/XL050gDUMKI/AAAAAAAAB1o/p55HheMIeNwcOzYDOn6H8PNbYIUfqz3YgCLcBGAs/s1600/hidup144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-TPTxZo7PLxw/XL050iNs5bI/AAAAAAAAB1k/9UJiXipjsVUSYfnwV1VZROy_dDnzDWe-wCLcBGAs/s1600/hidup168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-oijG9bF67RY/XL050QfnWDI/AAAAAAAAB1g/71P1ct4LeeQ4aV3tkWNfoXjuYxLyfYHMgCLcBGAs/s1600/hidup192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-zNuy1wsljUY/XL051Qu-S8I/AAAAAAAAB1w/kgx0_tyt4OUjTlM1XxsZNVM3LZJvlgdtACLcBGAs/s1600/hidup512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
